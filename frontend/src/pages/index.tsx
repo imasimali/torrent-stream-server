@@ -31,7 +31,7 @@ export function Pages(): JSX.Element {
                         <div className="copyright">
                             Find on{' '}
                             <a
-                                href="https://github.com/KiraLT/torrent-stream-server"
+                                href="https://github.com/imasimali"
                                 target="_blank"
                                 rel="noreferrer"
                             >
