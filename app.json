@@ -1,7 +1,7 @@
 {
     "name": "Torrent Stream Server",
     "description": "HTTP server to convert any torrent to video stream",
-    "repository": "https://github.com/KiraLT/torrent-stream-server",
+    "repository": "https://github.com/imasimali/torrent-stream-server",
     "logo": "https://raw.githubusercontent.com/KiraLT/torrent-stream-server/master/frontend/public/ico.png",
     "keywords": [
         "torrent",
