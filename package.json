@@ -7,7 +7,7 @@
         "torrent-stream-server": "lib/index.js"
     },
     "bugs": {
-        "url": "https://github.com/KiraLT/torrent-stream-server/issues"
+        "url": "https://github.com/imasimali/torrent-stream-server/issues"
     },
     "dependencies": {
         "check-disk-space": "^3.0.1",
@@ -78,7 +78,7 @@
         "frontend/build/**/*",
         "openapi.yaml"
     ],
-    "homepage": "https://github.com/KiraLT/torrent-stream-server",
+    "homepage": "https://github.com/imasimali/torrent-stream-server",
     "keywords": [
         "html5-video",
         "stream",
@@ -103,7 +103,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/KiraLT/torrent-stream-server.git"
+        "url": "https://github.com/imasimali/torrent-stream-server.git"
     },
     "scripts": {
         "build": "npm run build-backend && npm run build-frontend",
